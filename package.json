@@ -1,0 +1,21 @@
+{
+  "name": "generatexml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "^14.21.0"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser-xml": "^2.0.3",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "fast-xml-parser": "^4.0.13",
+    "parse": "^4.0.0"
+  }
+}
